@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/parallels/Documents/class/ros/ex1_class_cpp/main.cpp
+student.h
+/home/parallels/Documents/class/ros/ex1_class_cpp/student.h
+robot.h
+/home/parallels/Documents/class/ros/ex1_class_cpp/robot.h
+stdio.h
+-
+
+/home/parallels/Documents/class/ros/ex1_class_cpp/robot.cpp
+robot.h
+/home/parallels/Documents/class/ros/ex1_class_cpp/robot.h
+
+/home/parallels/Documents/class/ros/ex1_class_cpp/robot.h
+iostream
+-
+
+/home/parallels/Documents/class/ros/ex1_class_cpp/student.cpp
+student.h
+/home/parallels/Documents/class/ros/ex1_class_cpp/student.h
+
+/home/parallels/Documents/class/ros/ex1_class_cpp/student.h
+iostream
+-
+
