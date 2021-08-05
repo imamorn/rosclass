@@ -1,2 +1,4 @@
 # rosclass
-010243407 ROS Programming for Robotics
+Example OOP program
+  ex1_class_cpp
+  ex2_class_python
